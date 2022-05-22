@@ -1,4 +1,4 @@
-# fitur Antrian 
+# Fitur Antrian 
  Antrian ini terdiri dari 2 interface, yaitu Nomor Antrian, dan Panggilan Antrian.
 
 - Nomor Antrian
