@@ -1,6 +1,4 @@
 # fitur Antrian 
-fitur Antrian merupakan sistem manajemen yang digunakan untuk mengelola antrian pengunjung pada suatu perusahaan atau instansi. Aplikasi antrian dapat digunakan sebagai sarana untuk mencapai kinerja efektif dan efisien bagi perusahaan atau instansi dalam melayani pengunjung.
-
  Antrian ini terdiri dari 2 interface, yaitu Nomor Antrian, dan Panggilan Antrian.
 
 - Nomor Antrian
